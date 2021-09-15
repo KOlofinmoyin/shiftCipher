@@ -40,12 +40,6 @@ class ShiftCipher {
   }
 }
 
-const cipher = new ShiftCipher(2);
-cipher.encrypt('hello');
-cipher.decrypt('JGNNQ');
-let arr = ['a','b','C','d'];
-arr = arr.join('');
-let index = 2;
-console.log(arr);
-console.log(`${arr.charAt(index)}`);
-console.log(`${arr.charCodeAt(index)}`);
+// const cipher = new ShiftCipher(2);
+// cipher.encrypt('I love to code');
+// cipher.decrypt('K NQXG VQ EQFG');
