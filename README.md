@@ -1,4 +1,5 @@
 # ShiftCipher
+![shiftCipher](https://user-images.githubusercontent.com/33905131/133398720-9206fbca-39ac-4048-aa55-21cdc01c5f66.gif)
 
 A shift cipher takes a plain text message and shifts each letter forward in the alphabet by a given number.
 
